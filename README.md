@@ -14,3 +14,11 @@ Related to Introduction to Python
 3. Salir de la melancolía - Serú Girán
 4. Plateau - Nirvana
 5. The Sage - Emerson, Lake & Palmer
+
+## New from the firt ones
+1. If - Pink Floyd
+2. Lazy Flies - Beck
+3. Mutilated Lips - Ween
+4. Let's get lost - Elliott Smith
+5. At the chime of a city clock - Nick Drake
+6. Test
