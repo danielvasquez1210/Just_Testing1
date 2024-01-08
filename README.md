@@ -15,7 +15,7 @@ Related to Introduction to Python
 4. Plateau - Nirvana
 5. The Sage - Emerson, Lake & Palmer
 
-## New from the firt ones
+## New from the first ones
 1. If - Pink Floyd
 2. Lazy Flies - Beck
 3. Mutilated Lips - Ween
